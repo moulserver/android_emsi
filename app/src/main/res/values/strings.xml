@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prenom</string>
+    <string name="classe">Classe</string>
+    <string name="remarques">Remarques</string>
+    <string name="btnClicked">Button Clicker</string>
+</resources>

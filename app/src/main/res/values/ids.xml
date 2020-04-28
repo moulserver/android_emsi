@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgProfile" type="id" />
+    <item name="btnSave" type="id" />
+    <item name="lblNom" type="id" />
+    <item name="txtNom" type="id" />
+    <item name="lblPrenom" type="id" />
+    <item name="txtPrenom" type="id" />
+    <item name="lblClasse" type="id" />
+    <item name="txtClasse" type="id" />
+    <item name="lblReq" type="id" />
+    <item name="txtReq" type="id"/>
+    <item name="lisNotes" type="id" />
+</resources>
